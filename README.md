@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=blur&color=#cab1cb&height=120&section=header&text=유현's%Github&fontSize=70&animation=fadeIn" />
 
 ![유현's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyun-1203&theme=buefy&show_icons=true)
