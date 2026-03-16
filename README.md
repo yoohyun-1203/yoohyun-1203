@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=blur&color=cab1cb&height=200&section=header&text=유현's%20Github&fontSize=50&animation=fadeIn" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoohyun-1203)]
+
+
 ![유현's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoohyun-1203&theme=buefy&show_icons=true)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cab1cb&height=150&section=footer" />
